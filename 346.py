@@ -6,6 +6,7 @@ Consider a user who is willing to take up to k connections from their origin cit
 
 For example, our traveler wants to go from JFK to LAX with up to 3 connections, and our input flights are as follows:
 
+
 [
     ('JFK', 'ATL', 150),
     ('ATL', 'SFO', 400),
